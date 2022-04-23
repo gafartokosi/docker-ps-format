@@ -1,6 +1,6 @@
 # docker-ps-format
 
-Use this for permanently configure docker ps --format output
+Use this to permanently configure docker ps --format output
 
 create a .docker directory in your home directory (mkdir .docker)
 
